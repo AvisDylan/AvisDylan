@@ -3,9 +3,11 @@
 ### What I am good at:
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/java.png)
 ### What I am decent at:
+![](https://github.com/AvisDylan/AvisDylan/blob/main/images/kotlin.png)
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/maven.png)
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/cpp.png)
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/c.png)
+![](https://github.com/AvisDylan/AvisDylan/blob/main/images/docker.png)
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/photoshop.png)
 ![](https://github.com/AvisDylan/AvisDylan/blob/main/images/vegas.png)
 ### What I barely know:
