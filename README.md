@@ -27,4 +27,4 @@ I've been coding for the last 4 years. I've mainly focused on graphics programmi
 - **HTML/CSS/JS:** I have made multiple school projects using HTML/CSS/JS
 - **Next.JS** I have also worked on Next.JS a few times
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvisDylan&show_icons=true&theme=default&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvisDylan&show_icons=true&theme=tokyonight)
