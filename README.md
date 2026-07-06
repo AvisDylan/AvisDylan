@@ -26,5 +26,6 @@ I've been coding for the last 4 years. I've mainly focused on graphics programmi
 #### Web Development (Basic knowledge):
 - **HTML/CSS/JS:** I have made multiple school projects using HTML/CSS/JS
 - **Next.JS** I have also worked on Next.JS a few times
-- 
+
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvisDylan&show_icons=true&theme=tokyonight)
+
