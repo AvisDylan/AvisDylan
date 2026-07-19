@@ -38,6 +38,7 @@ A hobby OS containing a custom libc and kernel
 [![Emerald-Practice](https://img.shields.io/static/v1?label=AvisDylan&message=Emerald-Practice&color=blue&logo=github)](https://github.com/AvisDylan/EmeraldPractice)
 
 A Minecraft Pratice plugin written in Java I worked on for my old server
+
 ---
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvisDylan&show_icons=true&theme=tokyonight)
 
