@@ -1,7 +1,10 @@
 # Hello, I'm Avis.
 [![GitHub followers](https://img.shields.io/github/followers/AvisDylan?label=Followers&style=social)](https://github.com/AvisDylan)
+---
 ### About me
 I've been coding for the last 4 years. I've mainly focused on graphics programming and other various projects related to games and other things.
+
+---
 ### Tech I've worked with over the years
 #### Minecraft:
 - **Java:** Java is the first programming language I learned
@@ -26,6 +29,15 @@ I've been coding for the last 4 years. I've mainly focused on graphics programmi
 #### Web Development (Basic knowledge):
 - **HTML/CSS/JS:** I have made multiple school projects using HTML/CSS/JS
 - **Next.JS** I have also worked on Next.JS a few times
+---
+### Featured Projects:
+[![Blu-OS](https://img.shields.io/static/v1?label=AvisDylan&message=blu-os&color=blue&logo=github)](https://github.com/AvisDylan/blu-os)
 
+A hobby OS containing a custom libc and kernel
+
+[![Emerald-Practice](https://img.shields.io/static/v1?label=AvisDylan&message=Emerald-Practice&color=blue&logo=github)](https://github.com/AvisDylan/EmeraldPractice)
+
+A Minecraft Pratice plugin written in Java I worked on for my old server
+---
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvisDylan&show_icons=true&theme=tokyonight)
 
